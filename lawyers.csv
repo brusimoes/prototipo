@@ -1,0 +1,6 @@
+lawyer_name,lawyer_id,lawyer_sex,lawyer_specialty,available_days,available_times,consultancy,salary
+Joseph Johnson,1,Male,Labor law ,"Monday,Tuesday,Wednesday,Thursday,Friday","09:00-12:00,14:00-18:00",1530,309534.15507605654
+Jason Williams,2,Male,Criminal law,"Monday,Wednesday,Thursday,Saturday","08:00-13:00,15:00-19:00",2000,281114.5035585275
+Jesse Gordon,3,Female,Civil law,"Tuesday,Wednesday,Thursday,Friday","10:00-14:00,16:00-20:00",3000,305845.5846360554
+Heather Smith,4,Female,Family law,"Monday,Wednesday,Friday,Saturday","08:30-12:30,14:30-18:30",1800,295239.7666886809
+Kayla Hunter DDS,5,Female,Civil law,"Tuesday,Thursday,Friday","09:00-13:00,14:00-18:00",2200,298751.35520122456

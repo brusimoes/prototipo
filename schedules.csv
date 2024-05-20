@@ -1,0 +1,6 @@
+schedule_id,client_id,lawyer_name,lawyer_id,office_name,office_id,client_name,schedule_meeting,time_meeting,process_number,situation_process
+1,5,Jason Williams,2,JLS Advogados,1,Kate Thompson,2024-05-01 14:00:00,01:30:00,1324234,ongoing process
+2,4,Joseph Johnson,1,JLS Advogados,1,Antonio Frederick,2024-05-02 15:00:00,02:10:00,5749273,ongoing process
+3,3,Kayla Hunter DDS,5,JLS Advogados,1,Chad Byrd,2024-05-03 16:00:00,01:40:00,3423422,case filed
+4,2,Jesse Gordon,3,JLS Advogados,1,Ruben Burns,2024-05-04 17:00:00,01:00:00,3421311,ongoing process
+5,1,Heather Smith,4,JLS Advogados,1,Tiffany Ramirez,2024-05-05 18:00:00,02:00:00,5453654,case filed
