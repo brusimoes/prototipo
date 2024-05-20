@@ -1,4 +1,4 @@
-shedule_id,client_id,lawyer_name,lawyer_id,office_name,office_id,client_name,schedule_meeting,time_meeting
+schedule_id,client_id,lawyer_name,lawyer_id,office_name,office_id,client_name,schedule_meeting,time_meeting
 1,4,Jason Williams,2,JLS Advogados,1,Kate Thompson,2024-05-01 14:00:00,01:30:00
 2,3,Joseph Johnson,1,JLS Advogados,1,Antonio Frederick,2024-05-02 15:00:00,02:10:00
 3,2,Kayla Hunter DDS,5,JLS Advogados,1,Chad Byrd,2024-05-03 16:00:00,01:40:00
