@@ -1,0 +1,6 @@
+id,nome_adv,nome_escritorio,nome_cliente,agendamento,duracao,processo_numero,processo_situacao
+1,Roberto Gonçalves,APSV Advogados,Regina Almeida,2024-05-01 14:00:00,01:30:00,1324234,processo em andamento
+2,José Almeida,APSV Advogados,Mário Soares,2024-05-02 15:00:00,02:10:00,5749273,processo em andamento
+3,Liana Soares,APSV Advogados,Roberto Lemos,2024-05-03 16:00:00,01:40:00,3423422,processo arquivado
+4,Kátia Albuquerque,APSV Advogados,Antônio Joaquim,2024-05-04 17:00:00,01:00:00,3421311,processo em andamento
+5,Kayla Lemos,APSV Advogados,Luana Oliveira,2024-05-05 18:00:00,02:00:00,5453654,processo arquivado

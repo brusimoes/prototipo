@@ -1,0 +1,6 @@
+nome,id,sexo,especialidade,dias_disponiveis,horarios_disponiveis,consulta_valor,salario
+Roberto Gonçalves,1,Masculino,Direito Trabalhista,"Segunda, Terça, Quarta, Quinta, Sexta","09:00-12:00,14:00-18:00",1530,309534.15507605654
+José Almeida,2,Masculino,Direito Penal,"Segunda, Quarta, Quinta, Sábado","08:00-13:00,15:00-19:00",2000,281114.5035585275
+Liana Soares,3,Feminino,Direito Civil,"Terça, Quarta, Quinta, Sexta","10:00-14:00,16:00-20:00",3000,305845.5846360554
+Kátia Albuquerque,4,Feminino,Direito da Família,"Segunda, Quarta, Sexta, Sábado","08:30-12:30,14:30-18:30",1800,295239.7666886809
+Kayla Lemos,5,Feminino,Direito Civil,"Terça, Quinta, Sexta","09:00-13:00,14:00-18:00",2200,298751.35520122456
